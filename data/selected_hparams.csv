@@ -1,4 +1,0 @@
-Dataset,w_X,w_0,tau,budget_K,selection_mode
-Squirrel-F,0.01,8.0,0.1,0.75,topk
-Chameleon-F,0.1,1.0,1.0,0.75,topk
-Minesweeper,0.1,0.3,1.0,0.5,topk
