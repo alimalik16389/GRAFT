@@ -1,7 +1,0 @@
-Dataset,Method,Added nodes,Added edges,Node reduction,Edge reduction,Train time (s),Memory (MB)
-Chameleon-F,GRAPHITE (all),1980,9903,--,--,28.09,3059.2
-Chameleon-F,HAFS,1485,8028,25.0%,18.9%,24.65,2766.7
-Minesweeper,GRAPHITE (all),7,10000,--,--,138.34,8103.4
-Minesweeper,HAFS,4,4448,42.9%,55.5%,87.61,7366.7
-Squirrel-F,GRAPHITE (all),1593,32481,--,--,91.8,11277.4
-Squirrel-F,HAFS,1195,25888,25.0%,20.3%,84.69,10375.9
